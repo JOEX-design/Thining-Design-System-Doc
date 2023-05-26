@@ -1,0 +1,76 @@
+.div28,
+.frame {
+  align-self: stretch;
+}
+.div28 {
+  position: relative;
+  line-height: 58px;
+  font-weight: 500;
+}
+.frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 38px;
+}
+.span {
+  color: #202241;
+}
+.div29 {
+  position: relative;
+  line-height: 36px;
+  font-weight: 500;
+}
+.wrapper1 {
+  flex-direction: column;
+  padding: 0 48px 0 0;
+}
+.frame-parent7,
+.px-h3h2-wrapper,
+.wrapper1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.px-h3h2-wrapper {
+  border-radius: 12px;
+  background-color: #f6fbff;
+  flex-direction: row;
+  padding: 24px 48px 24px 16px;
+  font-size: inherit;
+  color: #1e76f0;
+  font-family: inherit;
+}
+.frame-parent7 {
+  flex-direction: column;
+  gap: 12px;
+}
+.token-default-color {
+  margin: 0;
+  padding-left: 27px;
+}
+.token-default-color-container {
+  flex: 1;
+  position: relative;
+  line-height: 30px;
+  font-weight: 500;
+}
+.div27 {
+  position: relative;
+  background-color: #fff;
+  box-shadow: 0-1px 0#e6e6e6 inset;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 64px 120px 100px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  text-align: left;
+  font-size: 24px;
+  color: #747c94;
+  font-family: "Source Sans Pro";
+}
